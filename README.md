@@ -26,7 +26,9 @@ Initially, this was a code along project from Jonas Schmedtmann's course "The Co
 
 - New design
 - Client side storage
-- Totals chart, break expenses down into categories
+- Expenses categories
+- Totals chart
+- Edit expenses/income
 
 ## Credits
 
