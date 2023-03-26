@@ -20,7 +20,7 @@ Simply clone the repo and run the html file on the browser. If you wish to make 
 
 ## About
 
-Initially, this was a code along project from Jonas Schmedtmann's course "The Complete Javascript Course: From Zero To Expert" on Udemy. After finished, I took the opportunity to add features and a create new design into the code base.
+Initially, this was a code along project from Jonas Schmedtmann's course "The Complete Javascript Course: From Zero To Expert" on Udemy. After finished, I took the opportunity to add features and implement a new design into the code base.
 
 ## Implemented features
 
